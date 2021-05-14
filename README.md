@@ -7,7 +7,7 @@ Compiles all c files located in the src directory into objects files located in 
 These object files are then linked into the final binary in the Builds directory.
 
 <br>
----
+
 ## Make Commands:
 
 - <b>all</b> - builds all files in release with no debug flags
